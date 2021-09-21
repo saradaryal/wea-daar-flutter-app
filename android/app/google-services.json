@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098151870104",
+    "project_id": "weadaarapp",
+    "storage_bucket": "weadaarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098151870104:android:bc15f24d3e129b38cd9aed",
+        "android_client_info": {
+          "package_name": "com.example.weadaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098151870104-nkcle4g60mktji6hmhss03kiie49d5j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXN_GSWV3WHJAxZQTcW0VuZ12AG6_Xu9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098151870104-nkcle4g60mktji6hmhss03kiie49d5j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
