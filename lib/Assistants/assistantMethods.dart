@@ -11,7 +11,7 @@ class AssistantMethods{
   Future<String> searchCoordinateAddress(Position position, context)  async {
       String placeAddress = " "; 
 
-      String url = "https://maps.googleapis.com/maps/api/geocode/json?latlng=${position.latitude},${position.longitude}&key=AIzaSyA3v3mAFGDLaI0XVpCEE0AY8EoGhpJVsc8";
+      String url = "https://maps.googleapis.com/maps/api/geocode/json?latlng=${position.latitude},${position.longitude}&key=API-KEY";
       
       var response = await RequestAssistant.getRequest(url);
 
